@@ -1,49 +1,49 @@
-# Vision Product – Application de Gestion des Tâches Étudiant
+# Vision Product – Application de Gestion des Tâches pour Étudiants
 
 ## 1. Vision du Produit
-L’objectif de ce produit est de proposer une application simple et efficace permettant aux étudiants d’organiser leurs tâches, planifier leurs séances de révision et visualiser leur emploi du temps hebdomadaire.  
-Le produit vise à améliorer la gestion du temps et à offrir une vue claire sur les activités et engagements scolaires de l’étudiant.
+L’objectif de ce produit est de fournir une application simple, intuitive et efficace permettant aux étudiants d’organiser leurs tâches, planifier leurs séances de révision et visualiser leur emploi du temps hebdomadaire.  
+À long terme, l’application pourra intégrer des fonctionnalités avancées (assistant intelligent, travail en équipe) selon l’évolution des besoins.
 
 ---
 
-## 2. Utilisateurs Ciblés
-- Étudiants universitaires  
-- Élèves du lycée  
-- Toute personne souhaitant organiser ses tâches scolaires ou personnelles
+## 2. Utilisateur Ciblé
+- *Étudiant*, (qu’il soit en université, faculté ou cycle supérieur).
 
 ---
 
 ## 3. Problèmes à Résoudre
-- Difficulté à gérer plusieurs tâches et travaux en même temps.  
-- Oubli fréquent des dates importantes ou des moments de révision.  
-- Absence d’un outil unifié pour regrouper tâches, révisions et cours.  
-- Manque de visibilité globale sur la charge de travail quotidienne ou hebdomadaire.
+- Difficulté à gérer simultanément plusieurs tâches, devoirs et séances de révision.  
+- Oubli fréquent des dates importantes ou des échéances.  
+- Manque d’un outil centralisé qui rassemble organisation des tâches, révisions et cours.  
+- Faible visibilité sur la charge de travail quotidienne ou hebdomadaire.
 
 ---
 
 ## 4. Fonctionnalités Principales
 
 ### 4.1 Gestion des Tâches et Séances de Révision
-Cette fonctionnalité permet de :  
-- Ajouter, modifier et supprimer une tâche ou une séance de révision.  
-- Définir une date ou un créneau horaire.  
-- Associer une matière (optionnel).  
-- Définir une priorité et un état (en cours / terminé).  
-- Organiser les éléments par matière, date ou priorité.
+- Ajouter, modifier et supprimer une tâche.  
+- Définir matière, date, créneau, priorité et état (à faire / en cours / terminé).  
+- Organiser les tâches par matière, priorité ou date.
 
-### 4.2 Emploi du Temps (Cours)
-- Ajouter les cours selon le jour, l’heure et la matière.  
-- Affichage d’un emploi du temps hebdomadaire.  
-- Possibilité de rappel avant le début d’un cours (optionnel).
+### 4.2 Emploi du Temps
+- Ajouter les cours avec jour, heure et matière.  
+- Affichage hebdomadaire de l’emploi du temps.  
+- Option de rappel avant le début d’un cours.
 
 ### 4.3 Vue Globale
-- Une page dédiée aux tâches : affiche les tâches du jour, de demain et des jours suivants, avec possibilité de marquer les tâches comme complètes.  
-- Une page dédiée à l’emploi du temps : affiche la semaine complète avec les cours et leurs horaires.
+- Liste des tâches du jour, de demain et des prochains jours.  
+- Vue hebdomadaire complète de l’emploi du temps.
+
+### 4.4 Fonctionnalités Potentielles
+Fonctionnalités envisagées pour une version ultérieure :  
+- *Assistant intelligent* permettant de poser des questions sur les tâches (ex. : tâches urgentes, planning du jour).  
+- *To-Do list d’équipe*, permettant à un groupe d’étudiants de collaborer sur une liste de tâches commune.
 
 ---
 
 ## 5. Valeur Ajoutée du Produit
-- Réunit dans une seule application tous les besoins d’organisation d’un étudiant.  
-- Facilite la planification du travail et des révisions.  
-- Aide à réduire les oublis et à mieux structurer la semaine.  
-- Offre une vue claire sur les activités à accomplir et celles à venir.
+- Regroupe dans une seule application l’ensemble des besoins organisationnels d’un étudiant.  
+- Améliore la planification des tâches et des révisions.  
+- Offre une visibilité claire sur la semaine et les priorités.  
+- Possibilité d’évolution vers des fonctionnalités intelligentes et collaboratives.
