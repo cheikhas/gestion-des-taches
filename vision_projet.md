@@ -1,7 +1,8 @@
 # Vision Product – Application de Gestion des Tâches pour Étudiants
 
 ## 1. Vision du Produit
-L’objectif de ce produit est de fournir une application simple, intuitive et efficace permettant aux étudiants d’organiser leurs tâches, planifier leurs séances de révision et visualiser leur emploi du temps hebdomadaire.  
+L’objectif de ce produit est de fournir une application simple, intuitive et efficace permettant aux étudiants d’organiser leurs tâches, planifier leurs séances de révision et visualiser leur emploi du temps hebdomadaire.
+L’application permet aussi à chaque étudiant de disposer d’un compte personnel afin d’accéder à ses données depuis n’importe quel appareil.  
 À long terme, l’application pourra intégrer des fonctionnalités avancées (assistant intelligent, travail en équipe) selon l’évolution des besoins.
 
 ---
@@ -45,5 +46,6 @@ Fonctionnalités envisagées pour une version ultérieure :
 ## 5. Valeur Ajoutée du Produit
 - Regroupe dans une seule application l’ensemble des besoins organisationnels d’un étudiant.  
 - Améliore la planification des tâches et des révisions.  
-- Offre une visibilité claire sur la semaine et les priorités.  
+- Offre une visibilité claire sur la semaine et les priorités. 
+- Permet à l’étudiant d’accéder à ses données depuis n’importe quel appareil grâce à un compte personnel.  
 - Possibilité d’évolution vers des fonctionnalités intelligentes et collaboratives.
